@@ -1,5 +1,6 @@
 import React from 'react';
 import './CreateTodoButton.css';
+import { FaPlus } from "react-icons/fa";
 
 function CreateTodoButton(props) {
   const onClickButton = () => {
@@ -11,7 +12,7 @@ function CreateTodoButton(props) {
       className="CreateTodoButton"
       onClick={onClickButton}
     >
-      +
+      <FaPlus/>
     </button>
   );
 }
