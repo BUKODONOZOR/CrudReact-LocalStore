@@ -1,4 +1,6 @@
 Cambios en el diseño del formulario Y Validación de los caracteres
+
+
 ![image](https://user-images.githubusercontent.com/90481288/167285649-cc4bc571-61fe-4f16-aee1-348d1b01a913.png)
 
 
