@@ -17,6 +17,8 @@ https://user-images.githubusercontent.com/90481288/167285192-2c5ccbe8-bc94-41f6-
 ![image](https://user-images.githubusercontent.com/90481288/167285213-685efe4b-54b4-4c4f-bcbd-95329884c8ee.png)
 
 Agregar la libreria  react-icons
+
+
 ![image](https://user-images.githubusercontent.com/90481288/167285420-d925592b-2bf8-4daa-b0ba-9da463b487ce.png) ![image](https://user-images.githubusercontent.com/90481288/167285429-ad844755-4447-4ce1-91fa-e6de3829f1b3.png) ![image](https://user-images.githubusercontent.com/90481288/167285446-ad968915-e862-4197-9525-37904c759667.png)
 
 
